@@ -25,6 +25,7 @@
 ![Discord](https://img.shields.io/badge/Izzy%234810-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Xbox](https://img.shields.io/badge/DRIZZY%235963-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Drizzylga1151-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![Twitch](https://img.shields.io/badge/Izzydotexe-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![EA](https://img.shields.io/badge/xBluuuez-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/blu%2313235-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/Izzydotexe-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
