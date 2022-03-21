@@ -40,7 +40,7 @@
 
 <p align="center" padding="15px">
   
-  <img align="center" padding="15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelAristide&layout=compact&theme=react"/>
-  <img align="center" padding="15px" src="https://github-readme-stats.vercel.app/api?username=IsraelAristide&theme=react"/>
+  <img align="center" padding="15px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzzyDotExe&layout=compact&theme=react"/>
+  <img align="center" padding="15px" src="https://github-readme-stats.vercel.app/api?username=IzzyDotExe&theme=react"/>
 
 </p>
