@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hello! 👋🏾</strong></h1>
 
-<h3 align="center">My name's Israel, i'm a hobbyist developer currently studying computer science.</h3>
+<h3 align="center">My name's Izzy, i'm a hobbyist developer currently studying computer science.</h3>
 <p align="center">👇🏾 Things i use 👇🏾</p>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
